@@ -1,0 +1,10 @@
+name: goit-react-hw-01
+id: c2b0137f-c527-4843-9202-aae31383a399
+languages:
+  - TypeScript
+  - TSX
+extensions:
+  - .ts
+  - .cts
+  - .mts
+  - .tsx
